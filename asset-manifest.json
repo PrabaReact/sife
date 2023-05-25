@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sife/static/css/main.78403255.css",
+    "main.js": "/sife/static/js/main.27ae9ea1.js",
+    "static/media/circuit-board-2440249_1920.jpg": "/sife/static/media/circuit-board-2440249_1920.438995dc2554acd5e86e.jpg",
+    "index.html": "/sife/index.html",
+    "main.78403255.css.map": "/sife/static/css/main.78403255.css.map",
+    "main.27ae9ea1.js.map": "/sife/static/js/main.27ae9ea1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78403255.css",
+    "static/js/main.27ae9ea1.js"
+  ]
+}
